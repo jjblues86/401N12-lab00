@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/401-warmUp-daily" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/401N12-Lab01" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/401N12-Lab04" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/401N12-lab00" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cf401-lab-02" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/seattle-javascript-401n12" vcs="Git" />
+  </component>
+</project>
