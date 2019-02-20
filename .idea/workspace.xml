@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="854573dc-a1dc-446c-b694-9f9debf31e43" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/401-warmUp-daily/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/401-warmUp-daily" beforeDir="false" afterPath="$PROJECT_DIR$/401-warmUp-daily" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/401N12-Lab01" beforeDir="false" afterPath="$PROJECT_DIR$/401N12-Lab01" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/401N12-Lab01/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/401N12-Lab01/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cf401-lab-02" beforeDir="false" afterPath="$PROJECT_DIR$/cf401-lab-02" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cf401-lab-02/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cf401-lab-02/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -16,12 +19,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/401-warmUp-daily/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="673">
-              <caret line="57" column="29" selection-start-line="57" selection-start-column="29" selection-end-line="57" selection-end-column="29" />
+            <state relative-caret-position="144">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
             </state>
           </provider>
         </entry>
@@ -47,8 +50,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1148" />
-    <option name="y" value="213" />
+    <option name="y" value="63" />
     <option name="width" value="1049" />
     <option name="height" value="737" />
   </component>
@@ -58,7 +60,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -75,6 +76,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -120,16 +122,16 @@
       <updated>1549341324860</updated>
       <workItem from="1549341329399" duration="1354000" />
       <workItem from="1550202631642" duration="674000" />
-      <workItem from="1550464646502" duration="6875000" />
+      <workItem from="1550464646502" duration="7632000" />
+      <workItem from="1550543451390" duration="37000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8903000" />
+    <option name="totallyTimeSpent" value="9697000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1148" y="213" width="1049" height="737" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="63" width="1049" height="737" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30058366" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -158,8 +160,8 @@
     <entry file="file://$PROJECT_DIR$/401N12-Lab04.js" />
     <entry file="file://$PROJECT_DIR$/401-warmUp-daily/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="673">
-          <caret line="57" column="29" selection-start-line="57" selection-start-column="29" selection-end-line="57" selection-end-column="29" />
+        <state relative-caret-position="144">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
